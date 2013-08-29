@@ -33,10 +33,12 @@ set :google_analytics_tracking_id, "UA-43595100-1"
 # This is the id for your profile URL: https://plus.google.com/https://plus.google.com/110506932842622114536/
 set :google_plus_user_id, nil
 # This is your shortname for your profile URL: http://facebook.com/ada.lovelace
-set :facebook_profile_name, "tina.shah.16718"
+set :facebook_profile_name, nil
+# set :facebook_profile_name, "tina.shah.16718"
 set :twitter_username, "tinapshah"
 # This is your shortname for your profile URL: http://linkedin.com/in/adalovelace
-set :linkedin_profile_name, "tinapshah"
+set :linkedin_profile_name, nil
+# set :linkedin_profile_name, "tinapshah"
 set :dribbble_username, nil
 set :github_username, "tinasoul"
 set :gravatar_email_address, "tinapshah@gmail.com"
