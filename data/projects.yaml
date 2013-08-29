@@ -4,18 +4,20 @@
   screenshot: hashtat-screenshot.png
   featured: true
   description: |
-                 Hashtat is a community for tattoo art and the stories behind the ink. One can find inspiration and the right artist for their next tattoo. Artists can create custom websites in under 3 minutes to show of their work.
+                 Hashtat is a community for tattoo art and the stories behind the ink. Enthusiats can find inspiration and the right artist for their next tattoo. Artists can create custom websites in under 3 minutes to show their work!
 
                  This Ruby on Rails app integrates with the twitter API to allow registered users to tweet in photos of their current tattoos.  
 
-                 MVP in progress.
+                 In progress.
 - 
   name: Make your ipsum
   source_link: https://github.com/tinasoul/Make-your-ipsum/blob/master/make-your-ipsum.rb
-  screenshot: railsgirls-screenshot.png
+  screenshot: makeyouripsum-screenshot.png
   featured: false
   description: |
-                 Make your ipsum is a custom ipsum generator in ruby. Pick any #hashtag and how many paragraphs you want, and it will generate an ipsum sample using corresponding tweets. If you don't want a specific ipsum, the app defaults to opti-ipsum, an ipsum of postive phrases and lyrics!
+                 Make your ipsum is a custom ipsum generator in ruby. Pick any #hashtag and how many paragraphs you want, and it will generate an ipsum sample using corresponding tweets. If there are no results, the app defaults to opti-ipsum, an ipsum of postive phrases and lyrics! 
+
+                 Clone from git and use this command--foreman run ruby make-your-ipsum.rb--in terminal.
 
                    
 
