@@ -1,17 +1,22 @@
 - 
-  name: MakerSquare
-  url: http://themakersquare.com
-  screenshot: makersquare-screenshot.png
+  name: Hashtat
+  url: http://hashtat.herokuapp.com
+  screenshot: hashtat-screenshot.png
   featured: true
   description: |
-                 MakerSquare is a full-time, ten week program that turns you into a web developer.
+                 Hashtat is a community for tattoo art and the stories behind the ink. One can find inspiration and the right artist for their next tattoo. Artists can create custom websites in under 3 minutes to show of their work.
+
+                 This Ruby on Rails app integrates with the twitter API to allow registered users to tweet in photos of their current tattoos.  
+
+                 MVP in progress.
 - 
-  name: RailsGirls ATX
-  url: http://railsgirlsatx.org
-  source_link: http://github.com/railsgirlsatx/site
+  name: Make your ipsum
+  source_link: https://github.com/tinasoul/Make-your-ipsum/blob/master/make-your-ipsum.rb
   screenshot: railsgirls-screenshot.png
   featured: false
   description: |
-                 This is a very long description.
+                 Make your ipsum is a custom ipsum generator in ruby. Pick any #hashtag and how many paragraphs you want, and it will generate an ipsum sample using corresponding tweets. If you don't want a specific ipsum, the app defaults to opti-ipsum, an ipsum of postive phrases and lyrics!
 
-                 It has multiple paragraphs.    
+                   
+
+                 
