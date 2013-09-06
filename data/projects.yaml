@@ -8,7 +8,7 @@
 
                  This Ruby on Rails app integrates with the twitter API to allow registered users to tweet in photos of their current tattoos.  
 
-                 In progress.
+                 Super early beta just to show proof of concept. In progress.
 - 
   name: Make your ipsum
   source_link: https://github.com/tinasoul/Make-your-ipsum/blob/master/make-your-ipsum.rb
