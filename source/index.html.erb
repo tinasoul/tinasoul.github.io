@@ -13,10 +13,11 @@
 </div>
 
 <div class="featured-element-row">
-  <section class="latest-from-blog">
-    <h2>Featured ebook...Snapshot India</h2>
-    <p>Coming Soon-- I lived in my parents' country, India, and got lost and then found while motorcylcing across it.<p>
-    <p>I wrote the quickest guide to India, ever.</p>
+  <section class="featured-project">
+  <% project = data.projects.select(&:featured).last %>
+    <h2>Featured ebook</h2>
+    <h3><%= link_to project.name, 'portfolio' %></h3>
+    <%= link_to(image_tag(project.screenshot), 'portfolio') %>
   </section>
 
   <section class="featured-project">

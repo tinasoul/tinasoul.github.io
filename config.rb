@@ -20,7 +20,7 @@ activate :sprockets
 ####
 
 set :full_name, "Tina P. Shah"
-set :city, "New York, New York"
+set :city, "New York City"
 set :resume, nil # Set to filename of resume PDF in source directory.
 set :google_analytics_tracking_id, "UA-43595100-1"
 

@@ -19,6 +19,15 @@
 
                  Clone from git and use this command--foreman run ruby make-your-ipsum.rb--in terminal.
 
-                   
+- 
+  name: SnapShot India
+  url: http://snapshotindia.com
+  screenshot: snapshot-screenshot.png
+  featured: true
+  description: |
+                 An ebook primer before any trip to India. All in under 30 pages.
+
+                 Written after Tina motorcyled across the country.
+        
 
                  
