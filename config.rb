@@ -40,6 +40,7 @@ set :twitter_username, "tinapshah"
 set :linkedin_profile_name, nil
 # set :linkedin_profile_name, "tinapshah"
 set :dribbble_username, nil
+set :gravatar_email_address, "tinapshah@gmail.com"
 set :github_username, "tinasoul"
 set :gravatar_email_address, "tinapshah@gmail.com"
 
